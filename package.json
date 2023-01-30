@@ -1,0 +1,11 @@
+{
+  "name": "project-planet",
+  "version": "1.0.0",
+  "main": "Index.js",
+  "scripts": {
+    "start": ""
+  },
+  "repository": "https://github.com/AbdulQuayyum/project-planet.git",
+  "author": "Abdul-Quayyum",
+  "license": "MIT"
+}
